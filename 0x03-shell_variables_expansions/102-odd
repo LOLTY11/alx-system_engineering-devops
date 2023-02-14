@@ -1,2 +1,2 @@
 #!/bin/bash
-pass -u,d - - | -d, -f1
+paste -d, - - | cut -d, -f1
